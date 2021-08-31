@@ -3,6 +3,7 @@ FoodLogoDet-1500: A Dataset for Large-Scale Food Logo Detection via Multi-Scale 
 FoodLogoDet-1500 Dataset
 ----
 ![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/example.png)
+
 FoodLogoDet-1500 Dataset Description
 ----
 Food logo detection plays an important role in the multimedia for its wide real-world applications, such as food recommendation of
@@ -23,6 +24,7 @@ with few samples.
 ![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/statistic_histogram.png)
 The figure showns the detailed statistics of FoodLogoDet-1500 about Image and object distribution in per category, and the number of objects in per image and object size in per image.
 ![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/statistic.png)
+
 Download Dataset Links
 ----
 Baidu Drive link:https://pan.baidu.com/s/1XWAW5MPQizuzWetiHJZ1iQ  password:p329 

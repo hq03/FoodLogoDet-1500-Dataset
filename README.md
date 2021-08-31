@@ -1,6 +1,6 @@
 FoodLogoDet-1500: A Dataset for Large-Scale Food Logo Detection via Multi-Scale Feature Decoupling Network
 ====
-FoodLogoDet-1500-Dataset
+FoodLogoDet-1500 Dataset
 ----
 ![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/example.png)
 FoodLogoDet-1500 Dataset Description
@@ -14,4 +14,10 @@ the collection and annotation process of FoodLogoDet-1500, analyze its scale and
 To the best of our knowledge, FoodLogoDet-1500 is the first largest publicly available high-quality dataset for food logo detection.The
 challenge of food logo detection lies in the large-scale categories and similarities between food logo categories.
 ![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/challenge.png)
+FoodLogoDet-1500 Dataset Detailed Statistics
+----
+The figure shows sorted distribution of the number of images from sampled classes, we can see that imbalanced distribution
+across different food logo categories are one characteristic of FoodLogoDet-1500, posing a challenge for effective food logo detection
+with few samples.
+![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/statistic_histogram.png)
 

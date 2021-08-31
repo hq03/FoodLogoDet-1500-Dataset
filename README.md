@@ -21,4 +21,6 @@ The figure shows sorted distribution of the number of images from sampled classe
 across different food logo categories are one characteristic of FoodLogoDet-1500, posing a challenge for effective food logo detection
 with few samples.
 ![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/statistic_histogram.png)
+The figure showns the detailed statistics of FoodLogoDet-1500 about Image and object distribution in per category, and the number of objects in per image and object size in per image.
+![](https://github.com/hq03/FoodLogoDet-1500-Dataset/blob/main/foodlogo/statistic.png)
 

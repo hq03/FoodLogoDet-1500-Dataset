@@ -28,4 +28,5 @@ The figure showns the detailed statistics of FoodLogoDet-1500 about Image and ob
 Download Dataset Links
 ----
 Server link: https://123.57.42.89/Dataset_ict/FoodLogoDet-1500-Dataset.zip
+
 Baidu Drive link:https://pan.baidu.com/s/1XWAW5MPQizuzWetiHJZ1iQ  password:p329 

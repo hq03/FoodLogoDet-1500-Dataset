@@ -29,4 +29,4 @@ Download Dataset Links
 ----
 Server link: http://123.57.42.89/Dataset_ict/FoodLogoDet-1500.zip
 
-Baidu Drive link:https://pan.baidu.com/s/1XWAW5MPQizuzWetiHJZ1iQ  password:p329 
+Baidu Drive link: https://pan.baidu.com/s/1XWAW5MPQizuzWetiHJZ1iQ  password: p329 
